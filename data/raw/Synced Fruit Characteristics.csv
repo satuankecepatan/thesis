@@ -1,0 +1,17 @@
+Variety Key,Fruit Length (cm),Fruit Width (cm),Fruit Stalk Length (cm),Fruit Stalk Width (cm),Diameter of Flesh With Skin (cm),Diameter of Flesh Without Skin (cm),Skin Thickness (cm) [T1: K7],Bunch Position [T1: V15],Bunch Shape [T1: V16],Fruit Position [T1: V17],Fruit Shape [T1: V18],Fruit Tip [T1: V19],Fruit Stalk Surface [T1: V20],Skin Color When Young [T1: V21],Number of Hands per Bunch [T1: V27],Number of Fruits per Hand [T1: V28],Fruit Weight (g) [T2: KN1],Fruit Tip [T2: KT1],Relic Waste at Fruit Tip [T2: KT2],Fruit Stalk Length [T2: KT3],Fruit Stalk Width [T2: KT4],Fruit Stalk Surface [T2: KT5],Skin Color When Young [T2: KT6],Skin Color When Ripe [T2: KT7],Skin Thickness [T2: KT8],Fruit Skin Adhesion [T2: KT9],Cracks on Fruit Skin [T2: KT10],Pulp in Fruit [T2: KT11],Pulp Color Before Ripe [T2: KT12],Fruit Flesh Color [T2: KT13],Flesh Texture [T2: KT14],Dominant Taste [T2: KT14],Seed Surface [T2: KT15],Seed Shape [T2: KT16],Fruit Position [T2: KT17],Number of Fruits in 1 Bunch [T2: KT18],Fruit Length [T2: KT19],Fruit Shape [T2: KT20],Cross-Sectional Shape [T2: KT21]
+Kepok,14.6,4.71,2.71,1.21,2.15,1.97,0.09,3,1,1,2,3,1,3,8,3,10.1,3,3,2,3,1,3,0,2,1,1,1,1,0,1,0,2,2,1,0,1,2,1
+Kapas,10,3,2,1,3,2,0.06,3,1,3,3,1,1,3,5,1,55.2,3,2,1,2,2,3,1,1,1,2,2,1,2,2,5,1,2,2,2,1,1,3
+Ambon,17.5,4,2,2.5,3.5,3,0.50,3,1,1,2,3,2,3,7,2,,,,,,,,,,,,,,,,,,,,,,,
+Jaranang Habang,16,4,1.12,10.7,3.75,3.36,0.39,2,1,3,3,1,1,8,3,1,,,,,,,,,,,,,,,,,,,,,,,
+Mauli,7.5,3,1.02,0.82,3,2.5,0.15,4,1,4,1,4,2,3,5,1,2.8,4,3,1,2,1,2,1,2,1,1,1,2,4,2,3,1,1,1,0,1,1,3
+Awak,12.5,4,0.91,13.3,2.7,2,0.56,1,1,3,2,4,1,3,9,1,,,,,,,,,,,,,,,,,,,,,,,
+Mas,8.25,3.23,1.93,1.14,3.11,2.72,0.20,3,1,1,2,3,1,3,4,1,53.1,3,3,2,2,1,2,2,2,1,2,1,5,5,2,4,1,4,1,2,1,1,2
+Talas,13,3,1.8,0.5,3,2.8,0.70,2,3,1,2,2,1,3,4,2,64.5,3,1,2,3,1,2,1,1,1,2,1,1,2,2,5,1,4,1,3,1,1,3
+Raja,11.27,3.27,1.41,0.97,3.27,2.66,0.67,3,1,3,5,3,1,3,8,3,48.3,4,3,3,3,1,2,4,2,2,2,1,2,4,1,2,2,4,3,2,1,1,2
+Kepok_2,13.9,14.1,2.9,2.1,13.9,10.4,0.18,3,1,1,2,3,1,3,8,3,86.0,3,3,2,3,1,3,0,2,1,1,1,1,0,1,0,2,2,1,0,1,2,1
+Kapas_2,12.5,3,0.5,1,3,2.5,0.07,3,1,3,3,1,1,3,5,1,69.0,3,2,1,2,2,3,1,1,1,2,2,1,2,2,5,1,2,2,2,1,1,3
+Kalimbang,11.5,2.9,2.3,1.2,2.6,2.2,,,,,,,,,,,35.0,4,2,2,3,2,3,1,1,1,1,1,1,2,1,2,2,1,1,3,1,3,2
+Mas_2,9,3,2,1,3,2.5,0.20,3,1,1,2,3,1,3,4,1,50.0,3,3,2,2,1,2,2,2,1,2,1,5,5,2,4,1,4,1,2,1,1,2
+Mauli_2,11.1,10,1.2,0.9,11.8,8.4,0.36,4,1,4,1,4,2,3,5,1,46.0,4,3,1,2,1,2,1,2,1,1,1,2,4,2,3,1,1,1,0,1,1,3
+Talas_2,14,3.6,2,1.3,3.3,3,0.80,2,3,1,2,2,1,3,4,2,100.0,3,1,2,3,1,2,1,1,1,2,1,1,2,2,5,1,4,1,3,1,1,3
+Raja_2,17,4.4,2.8,1.4,4.2,3,0.96,3,1,3,5,3,1,3,8,3,132.0,4,3,3,3,1,2,4,2,2,2,1,2,4,1,2,2,4,3,2,1,1,2
