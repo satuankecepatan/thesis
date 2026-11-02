@@ -221,3 +221,18 @@ __marimo__/
 
 # Agentic
 .agent/
+
+# R / RStudio
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj.user
+
+# renv (project-local R environment)
+renv/library/
+renv/cellar/
+renv/local/
+renv/python/
+renv/staging/
