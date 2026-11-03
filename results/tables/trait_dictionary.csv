@@ -1,0 +1,31 @@
+"Clean_Variable","Data_Type","Missing_Count_In_10_Cultivars","Included_In_Track_A_Continuous","Included_In_Track_B_Gower"
+"Fruit_Length_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Fruit_Width_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Stalk_Length_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Stalk_Width_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Diam_With_Skin_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Diam_No_Skin_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Skin_Thickness_cm","Continuous (Ratio)",0,TRUE,TRUE
+"Fruit_Weight_g","Continuous (Ratio)",3,FALSE,TRUE
+"Hands_Per_Bunch","Discrete Count (Ratio)",1,FALSE,TRUE
+"Fruits_Per_Hand_Cat","Categorical / Ordinal (Harmonized T1+T2)",1,FALSE,TRUE
+"Fruit_Position_Cat","Categorical / Ordinal (Harmonized T1+T2)",0,FALSE,TRUE
+"Fruit_Shape_Cat","Categorical / Ordinal (Harmonized T1+T2)",0,FALSE,TRUE
+"Fruit_Tip_Cat","Categorical / Ordinal (Harmonized T1+T2)",0,FALSE,TRUE
+"Stalk_Surface_Cat","Categorical / Ordinal (Harmonized T1+T2)",0,FALSE,TRUE
+"Skin_Young_Cat","Categorical / Ordinal (Harmonized T1+T2)",0,FALSE,TRUE
+"Bunch_Position_T1","Categorical / Ordinal (T1 Block)",1,FALSE,TRUE
+"Bunch_Shape_T1","Categorical / Ordinal (T1 Block)",1,FALSE,TRUE
+"Relic_Tip_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Skin_Ripe_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Skin_Adhesion_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Skin_Cracks_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Pulp_Presence_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Pulp_Unripe_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Flesh_Color_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Flesh_Texture_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Dominant_Taste_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Seed_Surface_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Seed_Shape_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Fruits_Bunch_Cat_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE
+"Cross_Section_T2","Categorical / Ordinal (T2 Block)",3,FALSE,TRUE

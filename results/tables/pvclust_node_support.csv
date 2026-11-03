@@ -1,0 +1,19 @@
+"Track","Node_ID","Branch_Height","Clade_Taxa","AU_Pct","BP_Pct","SE_AU_Pct","SE_BP_Pct","AU_p_value","Significant_AU95"
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",1,1.4495,"Kapas + Mauli",93.62,45.54,0.4,0.22,0,FALSE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",2,1.6499,"Kapas + Mas + Mauli",98.1,28.62,0.17,0.2,0,TRUE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",3,1.9111,"Raja + Talas",84.8,55.69,0.72,0.22,0.3768,FALSE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",4,2.2611,"Kalimbang + Kapas + Mas + Mauli",93.32,55.4,0.4,0.22,0.055,FALSE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",5,2.6374,"Jaranang_Habang + Raja + Talas",98.3,12.5,0.2,0.14,0,TRUE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",6,3.0606,"Awak + Jaranang_Habang + Raja + Talas",96.45,21.01,0.32,0.18,0,TRUE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",7,3.0655,"Ambon + Kepok",98.89,36.5,0.1,0.21,0,TRUE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",8,3.3899,"Awak + Jaranang_Habang + Kalimbang + Kapas + Mas + Mauli + Raja + Talas",87.72,29.2,0.69,0.2,0,FALSE
+"Track A (Euclidean_VIF (6 Cont, VIF<5) + UPGMA (Average))",9,4.0924,"Ambon + Awak + Jaranang_Habang + Kalimbang + Kapas + Kepok + Mas + Mauli + Raja + Talas",100,100,0,0,0,TRUE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",1,0.2182,"Kepok + Mas",78.01,40.31,0.75,0.17,0.1442,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",2,0.281,"Kepok + Mas + Talas",83.26,29.18,0.68,0.15,0.0408,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",3,0.3447,"Jaranang_Habang + Kapas",61.66,36.18,0.97,0.16,0.1298,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",4,0.3523,"Ambon + Kepok + Mas + Talas",79.54,30.97,0.75,0.16,0.0153,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",5,0.3525,"Kalimbang + Mauli",78.85,43.03,0.72,0.17,2e-04,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",6,0.3899,"Ambon + Kepok + Mas + Raja + Talas",76.51,23.48,0.86,0.14,0.0236,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",7,0.4174,"Awak + Jaranang_Habang + Kapas",63.83,10.55,1.28,0.1,0.1768,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",8,0.4902,"Ambon + Awak + Jaranang_Habang + Kapas + Kepok + Mas + Raja + Talas",75.06,7.67,1.22,0.09,0,FALSE
+"Track B (Gower_Unweighted (12 Mixed, 0% NA) + UPGMA (Average))",9,0.5054,"Ambon + Awak + Jaranang_Habang + Kalimbang + Kapas + Kepok + Mas + Mauli + Raja + Talas",100,100,0,0,0,TRUE

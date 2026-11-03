@@ -1,0 +1,31 @@
+"PCA_Model","Cultivar_Key","PC1","PC2","PC3","Cos2_PC1_PC2","Contrib_PC1_Pct","Contrib_PC2_Pct","Display_Name","Plot_Label_Markdown","Genome_Group","In_ITS","ITS_Accession_ID"
+"QC_Corrected_Full","Ambon",2.8547,1.1077,-0.3459,0.8337,27.39,9.36,"Ambon","*Musa* 'Ambon' (AAA)","AAA",TRUE,"Ambon"
+"QC_Corrected_Full","Awak",-0.9573,0.3624,-2.3403,0.1503,3.08,1,"Awak","*Musa* 'Awak' (ABB)","ABB",TRUE,"Awa"
+"QC_Corrected_Full","Kalimbang",-1.9647,1.294,0.2396,0.8394,12.97,12.78,"Kalimbang","*Musa* 'Kalimbang' (AA/AAB)","AA/AAB (Local)",TRUE,"Kalimbang"
+"QC_Corrected_Full","Mas",-1.586,0.0537,0.992,0.6386,8.45,0.02,"Mas","*Musa* 'Mas' (AA)","AA",TRUE,"Mas"
+"QC_Corrected_Full","Mauli",-1.4712,-1.2479,0.4476,0.8113,7.27,11.88,"Mauli","*Musa* 'Mauli' (AA/AAB)","AA/AAB (Local)",TRUE,"Mauli"
+"QC_Corrected_Full","Talas",0.2592,-1.0017,-0.223,0.3211,0.23,7.66,"Talas","*Musa* 'Talas' (AA/AAB)","AA/AAB (Local)",TRUE,"Talas"
+"QC_Corrected_Full","Kepok",1.3518,2.0022,0.8601,0.7406,6.14,30.6,"Kepok","*Musa* 'Kepok' (ABB)","ABB",FALSE,NA
+"QC_Corrected_Full","Kapas",-2.0077,-0.0386,0.0952,0.7977,13.54,0.01,"Kapas","*Musa* 'Kapas' (AAB)","AAB",FALSE,NA
+"QC_Corrected_Full","Raja",1.6419,-0.885,-0.0827,0.6403,9.06,5.98,"Raja","*Musa* 'Raja' (AAB)","AAB",FALSE,NA
+"QC_Corrected_Full","Jaranang_Habang",1.8793,-1.6468,0.3575,0.7849,11.87,20.7,"Jaranang Habang","*Musa* 'Jaranang Habang' (AA/AAB)","AA/AAB (Local)",FALSE,NA
+"QC_Corrected_VIF_Pruned","Ambon",2.8436,0.6947,-0.4715,0.8188,31.72,4.16,"Ambon","*Musa* 'Ambon' (AAA)","AAA",TRUE,"Ambon"
+"QC_Corrected_VIF_Pruned","Awak",-0.239,-0.5696,-0.6834,0.0839,0.22,2.8,"Awak","*Musa* 'Awak' (ABB)","ABB",TRUE,"Awa"
+"QC_Corrected_VIF_Pruned","Kalimbang",-1.5293,1.4482,0.6583,0.8137,9.18,18.08,"Kalimbang","*Musa* 'Kalimbang' (AA/AAB)","AA/AAB (Local)",TRUE,"Kalimbang"
+"QC_Corrected_VIF_Pruned","Mas",-1.7016,0.6443,0.3099,0.8405,11.36,3.58,"Mas","*Musa* 'Mas' (AA)","AA",TRUE,"Mas"
+"QC_Corrected_VIF_Pruned","Mauli",-1.6993,-0.8346,-0.4701,0.7839,11.33,6,"Mauli","*Musa* 'Mauli' (AA/AAB)","AA/AAB (Local)",TRUE,"Mauli"
+"QC_Corrected_VIF_Pruned","Talas",-0.0807,-0.9036,1.3248,0.2815,0.03,7.04,"Talas","*Musa* 'Talas' (AA/AAB)","AA/AAB (Local)",TRUE,"Talas"
+"QC_Corrected_VIF_Pruned","Kepok",1.6463,1.8908,-0.1127,0.7976,10.63,30.82,"Kepok","*Musa* 'Kepok' (ABB)","ABB",FALSE,NA
+"QC_Corrected_VIF_Pruned","Kapas",-1.7877,0.1395,-0.8198,0.773,12.54,0.17,"Kapas","*Musa* 'Kapas' (AAB)","AAB",FALSE,NA
+"QC_Corrected_VIF_Pruned","Raja",1.4573,-1.1413,1.2299,0.6572,8.33,11.23,"Raja","*Musa* 'Raja' (AAB)","AAB",FALSE,NA
+"QC_Corrected_VIF_Pruned","Jaranang_Habang",1.0904,-1.3684,-0.9655,0.6317,4.66,16.14,"Jaranang Habang","*Musa* 'Jaranang Habang' (AA/AAB)","AA/AAB (Local)",FALSE,NA
+"Raw_Uncorrected_Full","Ambon",-0.3855,1.1107,1.1111,0.4163,0.51,8.94,"Ambon","*Musa* 'Ambon' (AAA)","AAA",TRUE,"Ambon"
+"Raw_Uncorrected_Full","Awak",-1.9419,1.0371,-1.6776,0.5841,12.85,7.79,"Awak","*Musa* 'Awak' (ABB)","ABB",TRUE,"Awa"
+"Raw_Uncorrected_Full","Kalimbang",-0.6652,-1.3198,0.828,0.6232,1.51,12.62,"Kalimbang","*Musa* 'Kalimbang' (AA/AAB)","AA/AAB (Local)",TRUE,"Kalimbang"
+"Raw_Uncorrected_Full","Mas",-0.4237,-1.9078,0.0797,0.9319,0.61,26.37,"Mas","*Musa* 'Mas' (AA)","AA",TRUE,"Mas"
+"Raw_Uncorrected_Full","Mauli",2.2792,-0.654,-1.5264,0.5889,17.7,3.1,"Mauli","*Musa* 'Mauli' (AA/AAB)","AA/AAB (Local)",TRUE,"Mauli"
+"Raw_Uncorrected_Full","Talas",-0.8268,0.3408,1.137,0.2704,2.33,0.84,"Talas","*Musa* 'Talas' (AA/AAB)","AA/AAB (Local)",TRUE,"Talas"
+"Raw_Uncorrected_Full","Kepok",4.1561,0.7052,0.3704,0.9554,58.87,3.6,"Kepok","*Musa* 'Kepok' (ABB)","ABB",FALSE,NA
+"Raw_Uncorrected_Full","Kapas",-0.8091,-1.5227,-0.5571,0.7247,2.23,16.8,"Kapas","*Musa* 'Kapas' (AAB)","AAB",FALSE,NA
+"Raw_Uncorrected_Full","Raja",-0.5565,0.7137,1.4,0.2218,1.06,3.69,"Raja","*Musa* 'Raja' (AAB)","AAB",FALSE,NA
+"Raw_Uncorrected_Full","Jaranang_Habang",-0.8267,1.4969,-1.165,0.5994,2.33,16.24,"Jaranang Habang","*Musa* 'Jaranang Habang' (AA/AAB)","AA/AAB (Local)",FALSE,NA

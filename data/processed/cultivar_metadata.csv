@@ -1,0 +1,16 @@
+Cultivar_Key,Raw_CSV_Name,Display_Name,Plot_Label_Markdown,Plot_Label_Plain,Genome_Group,In_Morpho,In_ITS,ITS_Accession_ID,Tube_Code,Notes
+Ambon,Ambon,Ambon,*Musa* 'Ambon' (AAA),Musa 'Ambon' (AAA),AAA,TRUE,TRUE,Ambon,E,Triploid acuminata dessert cultivar; matched 1:1 with ITS tube E
+Awak,Awak,Awak,*Musa* 'Awak' (ABB),Musa 'Awak' (ABB),ABB,TRUE,TRUE,Awa,G,Triploid balbisiana-dominant cultivar; matched 1:1 with ITS tube G (Awa)
+Kalimbang,Kalimbang,Kalimbang,*Musa* 'Kalimbang' (AA/AAB),Musa 'Kalimbang' (AA/AAB),AA/AAB (Local),TRUE,TRUE,Kalimbang,A,South Kalimantan local cultivar; matched with ITS tube A (and replicate I: II_Kalimbang)
+Mas,Mas,Mas,*Musa* 'Mas' (AA),Musa 'Mas' (AA),AA,TRUE,TRUE,Mas,J,Diploid acuminata dessert cultivar; consensus of Mas + Mas_2; matched 1:1 with ITS tube J
+Mauli,Mauli,Mauli,*Musa* 'Mauli' (AA/AAB),Musa 'Mauli' (AA/AAB),AA/AAB (Local),TRUE,TRUE,Mauli,F,Iconic South Kalimantan cultivar; consensus of Mauli + Mauli_2; matched 1:1 with ITS tube F
+Talas,Talas,Talas,*Musa* 'Talas' (AA/AAB),Musa 'Talas' (AA/AAB),AA/AAB (Local),TRUE,TRUE,Talas,C,Prized South Kalimantan cultivar; consensus of Talas + Talas_2; matched 1:1 with ITS tube C
+Kepok,Kepok,Kepok,*Musa* 'Kepok' (ABB),Musa 'Kepok' (ABB),ABB,TRUE,FALSE,NA,NA,Cooking banana reference cultivar; consensus of Kepok + Kepok_2 (morphology only)
+Kapas,Kapas,Kapas,*Musa* 'Kapas' (AAB),Musa 'Kapas' (AAB),AAB,TRUE,FALSE,NA,NA,South Kalimantan cultivar; consensus of Kapas + Kapas_2 (morphology only)
+Raja,Raja,Raja,*Musa* 'Raja' (AAB),Musa 'Raja' (AAB),AAB,TRUE,FALSE,NA,NA,Hybrid triploid reference cultivar; consensus of Raja + Raja_2 (morphology only)
+Jaranang_Habang,Jaranang Habang,Jaranang Habang,*Musa* 'Jaranang Habang' (AA/AAB),Musa 'Jaranang Habang' (AA/AAB),AA/AAB (Local),TRUE,FALSE,NA,NA,Red-skinned South Kalimantan local cultivar (morphology only)
+Hutan,NA,Hutan (Wild Outgroup),*Musa acuminata* 'Hutan' (Wild),Musa acuminata 'Hutan' (Wild),Wild / Outgroup,FALSE,TRUE,Hutan,D,Wild seeded banana outgroup for rooting ITS phylogeny (ITS tube D)
+II_Kalimbang,NA,Kalimbang II (Replicate),*Musa* 'Kalimbang II' (AA/AAB),Musa 'Kalimbang II' (AA/AAB),AA/AAB (Local),FALSE,TRUE,II_Kalimbang,I,Second molecular replicate of Kalimbang (ITS tube I)
+Tarati,NA,Tarati,*Musa* 'Tarati' (AA/AAB),Musa 'Tarati' (AA/AAB),AA/AAB (Local),FALSE,TRUE,Tarati,H,Sigatoka-resistant South Kalimantan cultivar (ITS tube H; sequence only)
+Awang_Bangkal,NA,Awang Bangkal,*Musa* sp. 'Awang Bangkal',Musa sp. 'Awang Bangkal',AA/AAB (Local),FALSE,TRUE,Awang_Bangkal,B,Field accession from Desa Awang Bangkal Karang Intan (ITS tube B; sequence only)
+

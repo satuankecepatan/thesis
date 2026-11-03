@@ -1,0 +1,9 @@
+"Row_ID","Cultivar_Key","Trait_Column","Raw_Value_cm","Paired_Rep_cm","Ratio_To_Pair","Sample_Median_cm","Sample_IQR_cm","Upper_3IQR_Fence","Suspected_Cause","Correction_Factor","Corrected_Val_cm"
+"Kepok_2","Kepok","Fruit Width (cm)",14.1,4.71,2.994,3.435,1.1,6.735,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,4.488
+"Mauli_2","Mauli","Fruit Width (cm)",10,3,3.333,3.435,1.1,6.735,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,3.183
+"Jaranang_Habang","Jaranang_Habang","Fruit Stalk Width (cm)",10.7,NA,NA,1.17,0.582,2.917,"Millimeters (mm) recorded instead of centimeters (cm) (10x scale factor)",10,1.07
+"Awak","Awak","Fruit Stalk Width (cm)",13.3,NA,NA,1.17,0.582,2.917,"Millimeters (mm) recorded instead of centimeters (cm) (10x scale factor)",10,1.33
+"Kepok_2","Kepok","Diameter of Flesh With Skin (cm)",13.9,2.15,6.465,3.055,0.562,4.742,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,4.425
+"Mauli_2","Mauli","Diameter of Flesh With Skin (cm)",11.8,3,3.933,3.055,0.562,4.742,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,3.756
+"Kepok_2","Kepok","Diameter of Flesh Without Skin (cm)",10.4,1.97,5.279,2.69,0.575,4.415,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,3.31
+"Mauli_2","Mauli","Diameter of Flesh Without Skin (cm)",8.4,2.5,3.36,2.69,0.575,4.415,"Circumference recorded instead of diameter (value approx pi * diameter)",3.1416,2.674

@@ -1,0 +1,16 @@
+"PCA_Model","Axis","Eigenvalue","Variance_Pct","Cumulative_Variance_Pct","Kaiser_Criterion_GT1"
+"QC_Corrected_Full (7 traits)","comp 1",2.9758,47.24,47.24,TRUE
+"QC_Corrected_Full (7 traits)","comp 2",1.3102,20.8,68.03,TRUE
+"QC_Corrected_Full (7 traits)","comp 3",0.7772,12.34,80.37,FALSE
+"QC_Corrected_Full (7 traits)","comp 4",0.6312,10.02,90.39,FALSE
+"QC_Corrected_Full (7 traits)","comp 5",0.3567,5.66,96.05,FALSE
+"QC_Corrected_VIF_Pruned (6 traits)","comp 1",2.549,47.2,47.2,TRUE
+"QC_Corrected_VIF_Pruned (6 traits)","comp 2",1.1602,21.49,68.69,TRUE
+"QC_Corrected_VIF_Pruned (6 traits)","comp 3",0.6324,11.71,80.4,FALSE
+"QC_Corrected_VIF_Pruned (6 traits)","comp 4",0.575,10.65,91.05,FALSE
+"QC_Corrected_VIF_Pruned (6 traits)","comp 5",0.3242,6,97.05,FALSE
+"Raw_Uncorrected_Full (7 traits)","comp 1",2.9341,46.57,46.57,TRUE
+"Raw_Uncorrected_Full (7 traits)","comp 2",1.3801,21.91,68.48,TRUE
+"Raw_Uncorrected_Full (7 traits)","comp 3",1.2128,19.25,87.73,TRUE
+"Raw_Uncorrected_Full (7 traits)","comp 4",0.5086,8.07,95.8,FALSE
+"Raw_Uncorrected_Full (7 traits)","comp 5",0.2361,3.75,99.55,FALSE

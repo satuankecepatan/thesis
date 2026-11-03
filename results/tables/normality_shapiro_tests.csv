@@ -1,0 +1,15 @@
+"Dataset","Trait","Trait_Label","N","Mean","SD","Median","IQR","Skewness","Shapiro_W","p_value","p_adj_BH","Normality_Pass"
+"QC_Corrected (N=10)","Fruit_Length_cm","Fruit Length (cm)",10,12.856,2.8,13,2.909,0.041,0.9772,0.948754556042134,0.948754556042134,TRUE
+"QC_Corrected (N=10)","Fruit_Width_cm","Fruit Width (cm)",10,3.584,0.574,3.567,0.903,0.271,0.8947,0.191270885607834,0.669448099627421,TRUE
+"QC_Corrected (N=10)","Stalk_Length_cm","Stalk Length (cm)",10,1.746,0.618,1.933,0.926,0.094,0.9271,0.420166927618032,0.735292123331555,TRUE
+"QC_Corrected (N=10)","Stalk_Width_cm","Stalk Width (cm)",10,1.277,0.487,1.128,0.28,1.487,0.7684,0.0059715393847953,0.0418007756935671,FALSE
+"QC_Corrected (N=10)","Diam_With_Skin_cm","Flesh Diam. w/ Skin (cm)",10,3.216,0.393,3.219,0.456,-0.106,0.9563,0.743260122016388,0.948754556042134,TRUE
+"QC_Corrected (N=10)","Diam_No_Skin_cm","Flesh Diam. w/o Skin (cm)",10,2.638,0.41,2.625,0.548,0.07,0.9753,0.934963982567786,0.948754556042134,TRUE
+"QC_Corrected (N=10)","Skin_Thickness_cm","Skin Thickness (cm)",10,0.387,0.261,0.322,0.345,0.384,0.9238,0.389312902092007,0.735292123331555,TRUE
+"Raw_Uncorrected (N=10)","Fruit_Length_cm","Fruit Length (cm)",10,12.856,2.8,13,2.909,0.041,0.9772,0.948754556042134,0.948754556042134,TRUE
+"Raw_Uncorrected (N=10)","Fruit_Width_cm","Fruit Width (cm)",10,4.406,2.037,3.918,0.839,1.469,0.7148,0.00133238752153335,0.00310890421691114,FALSE
+"Raw_Uncorrected (N=10)","Stalk_Length_cm","Stalk Length (cm)",10,1.746,0.618,1.933,0.926,0.094,0.9271,0.420166927618032,0.490194748887704,TRUE
+"Raw_Uncorrected (N=10)","Stalk_Width_cm","Stalk Width (cm)",10,3.437,4.58,1.192,1.271,1.304,0.6127,7.84351181180291e-05,0.000549045826826204,FALSE
+"Raw_Uncorrected (N=10)","Diam_With_Skin_cm","Flesh Diam. w/ Skin (cm)",10,4.092,1.953,3.325,0.732,1.175,0.7043,0.000993415465513332,0.00310890421691114,FALSE
+"Raw_Uncorrected (N=10)","Diam_No_Skin_cm","Flesh Diam. w/o Skin (cm)",10,3.279,1.41,2.865,0.93,1.066,0.7895,0.0108199260583267,0.0189348706020717,FALSE
+"Raw_Uncorrected (N=10)","Skin_Thickness_cm","Skin Thickness (cm)",10,0.387,0.261,0.322,0.345,0.384,0.9238,0.389312902092007,0.490194748887704,TRUE

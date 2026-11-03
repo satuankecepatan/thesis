@@ -1,0 +1,14 @@
+"Step","Trait","VIF","Max_VIF","Status","Retained_In_Final_VIF_Set"
+1,"Fruit_Length_cm",5.182,5.757,"Collinear (VIF >= 5)",TRUE
+1,"Fruit_Width_cm",2.544,5.757,"Pass (VIF < 5)",TRUE
+1,"Stalk_Length_cm",1.278,5.757,"Pass (VIF < 5)",TRUE
+1,"Stalk_Width_cm",2.602,5.757,"Pass (VIF < 5)",TRUE
+1,"Diam_With_Skin_cm",4.914,5.757,"Pass (VIF < 5)",TRUE
+1,"Diam_No_Skin_cm",5.757,5.757,"Collinear (VIF >= 5)",FALSE
+1,"Skin_Thickness_cm",1.446,5.757,"Pass (VIF < 5)",TRUE
+2,"Fruit_Length_cm",3.798,3.798,"Pass (VIF < 5)",TRUE
+2,"Fruit_Width_cm",2.171,3.798,"Pass (VIF < 5)",TRUE
+2,"Stalk_Length_cm",1.184,3.798,"Pass (VIF < 5)",TRUE
+2,"Stalk_Width_cm",2.423,3.798,"Pass (VIF < 5)",TRUE
+2,"Diam_With_Skin_cm",1.55,3.798,"Pass (VIF < 5)",TRUE
+2,"Skin_Thickness_cm",1.426,3.798,"Pass (VIF < 5)",TRUE
