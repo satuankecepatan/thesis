@@ -1,0 +1,21 @@
+"Dataset","Subst_Model","Node_ID","Clade_Size","Clade_Taxa","SH_aLRT_Pct","ML_BS_Pct","Support_Label","Pass_SH80","Pass_BS95","Pass_Both"
+"Phred_Weighted","TrN+G(4)",12,11,"Ambon + Awa + Awang_Bangkal + Ensete_ventricosum + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas + Tarati",100,100,"100 / 100",TRUE,TRUE,TRUE
+"Phred_Weighted","TrN+G(4)",13,4,"Ambon + Awang_Bangkal + II_Kalimbang + Kalimbang",65.3,56.9,"65 / 57",FALSE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",14,2,"Ambon + Awang_Bangkal",95.2,93.7,"95 / 94",TRUE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",15,2,"II_Kalimbang + Kalimbang",99.9,100,"100 / 100",TRUE,TRUE,TRUE
+"Phred_Weighted","TrN+G(4)",16,8,"Ambon + Awang_Bangkal + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas",87.6,63.2,"88 / 63",TRUE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",17,4,"Hutan + Mas + Mauli + Talas",91.8,87.2,"92 / 87",TRUE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",18,3,"Mas + Mauli + Talas",0,29.4,"0 / 29",FALSE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",19,2,"Mas + Mauli",77.1,66.6,"77 / 67",FALSE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",20,9,"Ambon + Awa + Awang_Bangkal + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas",61.5,61.7,"62 / 62",FALSE,FALSE,FALSE
+"Phred_Weighted","TrN+G(4)",21,10,"Ambon + Awa + Awang_Bangkal + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas + Tarati",100,100,"100 / 100",TRUE,TRUE,TRUE
+"Galaxy_Raw","TrN+G(4)",12,11,"Ambon + Awa + Awang_Bangkal + Ensete_ventricosum + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas + Tarati",100,100,"100 / 100",TRUE,TRUE,TRUE
+"Galaxy_Raw","TrN+G(4)",13,4,"II_Kalimbang + Kalimbang + Talas + Tarati",94.5,53.3,"94 / 53",TRUE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",14,2,"II_Kalimbang + Kalimbang",100,100,"100 / 100",TRUE,TRUE,TRUE
+"Galaxy_Raw","TrN+G(4)",15,2,"Talas + Tarati",60.7,42.3,"61 / 42",FALSE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",16,3,"Hutan + Mas + Mauli",75.1,67.8,"75 / 68",FALSE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",17,7,"Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas + Tarati",84.6,30.4,"85 / 30",TRUE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",18,3,"Ambon + Awa + Awang_Bangkal",46,14.5,"46 / 14",FALSE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",19,2,"Ambon + Awang_Bangkal",99.4,99.6,"99 / 100",TRUE,TRUE,TRUE
+"Galaxy_Raw","TrN+G(4)",20,2,"Mas + Mauli",95.7,81.5,"96 / 82",TRUE,FALSE,FALSE
+"Galaxy_Raw","TrN+G(4)",21,10,"Ambon + Awa + Awang_Bangkal + Hutan + II_Kalimbang + Kalimbang + Mas + Mauli + Talas + Tarati",100,100,"100 / 100",TRUE,TRUE,TRUE

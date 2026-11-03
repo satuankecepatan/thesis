@@ -13,4 +13,5 @@ Hutan,NA,Hutan (Wild Outgroup),*Musa acuminata* 'Hutan' (Wild),Musa acuminata 'H
 II_Kalimbang,NA,Kalimbang II (Replicate),*Musa* 'Kalimbang II' (AA/AAB),Musa 'Kalimbang II' (AA/AAB),AA/AAB (Local),FALSE,TRUE,II_Kalimbang,I,Second molecular replicate of Kalimbang (ITS tube I)
 Tarati,NA,Tarati,*Musa* 'Tarati' (AA/AAB),Musa 'Tarati' (AA/AAB),AA/AAB (Local),FALSE,TRUE,Tarati,H,Sigatoka-resistant South Kalimantan cultivar (ITS tube H; sequence only)
 Awang_Bangkal,NA,Awang Bangkal,*Musa* sp. 'Awang Bangkal',Musa sp. 'Awang Bangkal',AA/AAB (Local),FALSE,TRUE,Awang_Bangkal,B,Field accession from Desa Awang Bangkal Karang Intan (ITS tube B; sequence only)
+Ensete_ventricosum,NA,Ensete ventricosum (Outgroup),*Ensete ventricosum* (Outgroup),Ensete ventricosum (Outgroup),Wild / Outgroup,FALSE,TRUE,Ensete_ventricosum,Outgroup,External Musaceae outgroup from NCBI GenBank FJ428078.1 (683 bp complete ITS1-5.8S-ITS2)
 

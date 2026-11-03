@@ -34,9 +34,9 @@ the whole framework comes down to **banana breeding**. if we look at how diverse
 
 ### 2. molecular tree (the ITS side)
 
-- [ ] redo the whole sequence alignment to IQ-TREE (`MAFFT` with `L-INS-i` for tricky indels $\rightarrow$ `trimAl` to clean up gappy columns $\rightarrow$ `IQ-TREE 2`)
-- [ ] properly print out the dendrogram (root with an outgroup, plot cleanly with `ggtree` or `dendextend`)
-- [ ] **justify the methods, again, statistically:**
+- [x] redo the whole sequence alignment to IQ-TREE (`MAFFT` with `L-INS-i` for tricky indels $\rightarrow$ `trimAl` to clean up gappy columns $\rightarrow$ `IQ-TREE 2`)
+- [x] properly print out the dendrogram (root with an outgroup, plot cleanly with `ggtree` or `dendextend`)
+- [x] **justify the methods, again, statistically:**
   - **ModelFinder (`-m MFP`):** let BIC / AICc pick the exact nucleotide substitution model instead of guessing `GTR+G`.
   - **branch support (`-bb 1000 -alrt 1000`):** run 1,000 Ultrafast Bootstraps (UFBoot $\ge 95\%$) + SH-aLRT ($\ge 80\%$) to prove the clades hold up.
 

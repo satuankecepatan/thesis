@@ -1,0 +1,3 @@
+"Dataset","N_Taxa","Raw_Aligned_Cols","Trimmed_Aligned_Cols","Cols_Removed","Pct_Cols_Retained","Variable_Sites_PostTrim","Parsimony_Inform_PostTrim","Mean_Gap_Pct_PostTrim","Mean_Ambig_Pct_PostTrim"
+"Phred_Weighted",11,730,605,125,82.88,132,35,0.32,4.06
+"Galaxy_Raw",11,732,609,123,83.2,153,59,1.19,8.23

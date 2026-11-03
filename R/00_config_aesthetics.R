@@ -4,6 +4,12 @@
 # Follows .agent/RULES/AGENT.md, .agent/SKILL/Aesthetics.md, Bioinformatics.md
 # ==============================================================================
 
+# Ensure user R library is available as fallback alongside renv for Bioconductor packages (Biostrings, DECIPHER)
+user_r_lib <- "C:/Users/Asus/AppData/Local/R/win-library/4.5"
+if (dir.exists(user_r_lib) && !(user_r_lib %in% .libPaths())) {
+  .libPaths(c(.libPaths(), user_r_lib))
+}
+
 suppressPackageStartupMessages({
   library(tidyverse)
   library(ggrepel)
