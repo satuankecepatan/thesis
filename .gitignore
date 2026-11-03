@@ -236,3 +236,6 @@ renv/cellar/
 renv/local/
 renv/python/
 renv/staging/
+
+# ;)
+data/Format.docx

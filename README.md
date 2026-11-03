@@ -42,9 +42,9 @@ the whole framework comes down to **banana breeding**. if we look at how diverse
 
 ### 3. tree vs. tree (the showdown)
 
-- [ ] compare the two trees statistically:
+- [x] compare the two trees statistically:
   - **tanglegram & entanglement (`dendextend`):** plot both trees face-to-face and measure how tangled the connecting lines are ($0 =$ identical, $1 =$ total chaos).
   - **Baker's Gamma ($\gamma$):** rank correlation of where pairs of bananas branch off in both trees (gives a $-1$ to $+1$ score).
   - **Mantel test (`vegan::mantel`):** correlate the fruit distance matrix directly against the ITS genetic distance matrix (9,999 permutations). **this is the main test that tells us if the correlation is positive ($r_M > 0$), negative ($r_M < 0$), or flat ($r_M \approx 0$).**
   - **Procrustes test (`vegan::protest`) & Robinson-Foulds distance (`phangorn::RF.dist`):** check overall ordination match and see which specific banana cultivars are the "rebels" breaking the correlation.
-- [ ] interpret the results back into the breeding framework
+- [x] interpret the results back into the breeding framework

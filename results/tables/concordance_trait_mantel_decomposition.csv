@@ -1,0 +1,13 @@
+"Trait_Code","Trait_Label","Trait_Category","Mantel_r_Pearson","Pearson_CI_Low","Pearson_CI_High","Pearson_Z_Score","Pearson_P_TwoSided","Mantel_rho_Spearman","Spearman_Z_Score","Spearman_P_TwoSided","Pearson_P_BH_Adj","Spearman_P_BH_Adj"
+"Stalk_Width_cm","Pedicel / Stalk Width (cm)","Continuous (Retained, VIF < 5)",0.8054,0.5642,0.9543,1.934,0.0583,0.7071,1.915,0.0681,0.4164,0.4086
+"Fruit_Length_cm","Fruit Length (cm)","Continuous (Retained, VIF < 5)",0.5257,0.0102,0.8177,1.469,0.1458,0.5344,1.547,0.1375,0.5832,0.55
+"Fruit_Width_cm","Fruit Width (cm)","Continuous (Retained, VIF < 5)",0.4892,0.0049,0.8358,2.078,0.0694,0.5323,2.316,0.0028,0.4164,0.0336
+"Diam_With_Skin_cm","Fruit Diameter With Peel (cm)","Continuous (Retained, VIF < 5)",0.3055,-0.2495,0.7443,1.238,0.2528,0.325,1.297,0.2347,0.7333,0.7041
+"Diam_No_Skin_cm","Pulp Diameter Without Peel (cm)","Continuous (Collinear, VIF >= 5)",0.2394,-0.3718,0.6819,0.853,0.4431,0.2964,1.133,0.3139,0.7333,0.7534
+"Fruits_Per_Hand_Cat","Fruits Per Hand Class (IPGRI)","Qualitative IPGRI Descriptor (Gower)",0.1683,-0.4855,0.7638,0.742,0.4333,0.2132,0.93,0.4667,0.7333,0.8958
+"Stalk_Surface_Cat","Pedicel Surface Hairiness (IPGRI)","Qualitative IPGRI Descriptor (Gower)",0.0738,-0.4312,0.6254,0.76,0.5,0.0315,0.329,1,0.7333,1
+"Fruit_Shape_Cat","Longitudinal Fruit Curvature (IPGRI)","Qualitative IPGRI Descriptor (Gower)",-0.0516,-0.5506,0.4891,-0.131,1,0.0315,0.08,1,1,1
+"Stalk_Length_cm","Pedicel / Stalk Length (cm)","Continuous (Retained, VIF < 5)",-0.1352,-0.626,0.3711,-0.464,0.6542,-0.1071,-0.349,0.7819,0.785,0.9383
+"Fruit_Tip_Cat","Fruit Apex / Tip Architecture (IPGRI)","Qualitative IPGRI Descriptor (Gower)",-0.1392,-0.5621,0.2818,-0.574,0.75,-0.1396,-0.576,0.7333,0.8182,0.9383
+"Skin_Thickness_cm","Pericarp / Peel Thickness (cm)","Continuous (Retained, VIF < 5)",-0.1714,-0.6165,0.3698,-0.673,0.55,-0.1344,-0.583,0.5972,0.7333,0.8958
+"Fruit_Position_Cat","Fruit Rachis Posture (IPGRI)","Qualitative IPGRI Descriptor (Gower)",-0.3465,-0.7975,0.1825,-0.882,0.4,-0.3465,-0.881,0.5333,0.7333,0.8958
